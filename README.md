@@ -7,4 +7,4 @@ Age: 13 years old\
 Study: Secondary Student
 
 ## Why Bible here?
-I didn't create a Reddit account yet. =P
+How to even use Reddit Markdown? =P
